@@ -1,0 +1,54 @@
+div{
+    margin:0;
+    background-color: #f2f2f2;
+    text-align:center;
+    padding:10px;
+    text-decoration:none;
+    padding:10px 20px;
+    color:#000000;
+    }
+    h2{
+    color :#8098ff;
+    text-align :center ;
+    background-color :#0c0b0b;
+    padding :30Px ;
+    }
+    h3{
+    color:#0f1302;
+    background-color:#d5fff4;
+    text-align :center ;
+    }
+    i{
+    font-size :15Px ;
+    }
+    footer{
+    text-align :center;
+    }
+    .Sports {
+    border: 0.3px solid;
+    padding :20px ;
+    background-color :#ffffff
+    }
+    .add-to-cart {
+    background-color:#ffdc00;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    }
+    .add-to-cart:hover {
+    background-color: #0056b3;
+    }.buy-button {
+    background-color: #ffdc00;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    }
+    .buy-button:hover {
+    background-color: #0056b3;
+    }
